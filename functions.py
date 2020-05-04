@@ -24,6 +24,6 @@ tell_age(say_hi(),"Carla", 4)
 
 print("fim")
 
-#apesar do python ler o código do topo para o fim, no caso das 
-#das funções o pyhton é capaz de voltar atrás 
+#apesar do python ler o código do topo para o fim, no caso das
+#das funções o pyhton é capaz de voltar atrás
 #para ler e chamar a função
