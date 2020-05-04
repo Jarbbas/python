@@ -6,7 +6,7 @@ for letter in "amor eu gosto de ti":
     print(letter)
 
 #array friends
-family = ["Emanuel", "Carla", "Camilia"]
+family = ["Emanuel", "Carla", "Camila"]
 #neste caso o ciclo for vai correr todos os elementos da array
 #podemos denominar qualquer nome para a variavel que vai correr o loop dentro da array
 for familymenber in family:
@@ -16,9 +16,9 @@ for familymenber in family:
 for index in range(10):
     print(index)
 
-#exemplo de um mais for onde segue o range e imprime quando passar pela 3º iteração
+#exemplo de um mais ciclo for onde segue o range e imprime quando passar pela 3º iteração
 for index in range(5):
     if index == 3:
-        print("third iteration")
+        print("forth iteration")
     else:
         print("Not")
